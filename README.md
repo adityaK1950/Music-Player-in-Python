@@ -13,7 +13,6 @@ A simple Music Player application built with Python using Tkinter for the graphi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟Features
 
